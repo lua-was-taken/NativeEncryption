@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NativeEncryptionExample\NativeEncryption.csproj" />
+    <ProjectReference Include="..\NativeEncryption\NativeEncryption.csproj" />
   </ItemGroup>
 
 </Project>
